@@ -10,6 +10,4 @@ kenan238/kenan238 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 # _Website_
-[My website here](https://kenan238.github.io)
-  
-[And the website's repo here](https://github.com/kenan238/kenan238.github.io)
+[My website here](https://kenanyazbeck.com)
