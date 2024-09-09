@@ -16,4 +16,4 @@ You can click the Preview link to take a look at your changes.
 [My website here](https://kenanyazbeck.com)
 
 # About me
-I'm based in Lebanon, 13 years old, with 5 years of programming experience.
+I'm based in Lebanon, 14 years old, with 5 years of programming experience.
