@@ -1,5 +1,5 @@
 # I'm Kenan Yazbeck
-### A full-stack developer that can do software, web, and game development
+### A full-stack developer that can do a fair bunch.
 
 # My stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenan238&label=Profile%20views&color=0e75b6&style=flat" alt="gamersi" /> </p>
@@ -12,8 +12,12 @@ kenan238/kenan238 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-# Website
-[My website here](https://kenanyazbeck.com)
-
 # About me
 I'm based in Lebanon, 15 years old, with 6 years of programming experience.
+
+I've done it all, from Web Development, Software Development, Game Development to Reverse Engineering, I do just about anything that catches my attention.
+
+I do most of this purely out of passion, for the love of the game.
+
+# Website
+[My website here](https://kenanyazbeck.com)
