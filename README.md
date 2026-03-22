@@ -18,6 +18,3 @@ I'm based in Lebanon, 15 years old, with 6 years of programming experience.
 I've done it all, from Web Development, Software Development, Game Development to Reverse Engineering, I do just about anything that catches my attention.
 
 I do most of this purely out of passion, for the love of the game.
-
-# Website
-[My website here](https://kenanyazbeck.com)
